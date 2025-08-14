@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Plant__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>My_Plants_App</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
+        <members>PublicReports/Report_on_All_Plants_IH3</members>
+        <name>Report</name>
+    </types>
+    <version>64.0</version>
+</Package>
